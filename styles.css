@@ -3,6 +3,7 @@
   }
   
   body {
+  
     font-family: Arial, sans-serif;
     margin: 0;
   }
@@ -22,6 +23,7 @@ h2 {
   text-align: center;
 }
   section {
+    
     display: -webkit-flex;
     display: flex;
   }
@@ -79,6 +81,7 @@ h4 {
 }
 
 .container {
+  
   padding: 10px 0;
 }
 
